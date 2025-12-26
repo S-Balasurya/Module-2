@@ -10,10 +10,13 @@ To write a Python program that defines a **lambda function** which takes two arg
 
 ## 🧾 Program
 ~~~
-
+add = lambda a, b: a + b
+result = add(5, 7)
+print("The sum is:", result)
 ~~~
 
 ## Output
+<img width="367" height="115" alt="image" src="https://github.com/user-attachments/assets/c1da6e31-a162-44e5-b3a7-ce50a1b0dfa3" />
 
 ## Result
 Thus,the program has been executed successfully.
